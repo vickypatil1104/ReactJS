@@ -1,0 +1,14 @@
+{
+  "name": "react-js",
+  "version": "1.0.0",
+  "description": "we are learing rect js with namste react ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "vicky patil",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
